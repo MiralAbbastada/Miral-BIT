@@ -13,3 +13,5 @@
 🧑‍💻 The target audience includes both beginner and experienced investors and traders, as well as anyone interested in cryptocurrencies.
 
 🌐 Miral BIT provides relevant information on cryptocurrency prices, facilitates community engagement, and offers error analysis, making it a valuable tool for both investors and casual users.
+
+#️⃣ To download source code or release apk, navigate to <b>Releases</b> tab!
