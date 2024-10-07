@@ -6,9 +6,9 @@
 
 ❤️‍🔥 Benefits of using Miral BIT:
 
-    🕒 Up-to-date information
-    🕹️ Community interaction
-    ❌ Error analysis and customization options
+    🕒 ## Up-to-date information
+    🕹️ ## Community interaction
+    ❌ ## Error analysis and customization options
 
 🧑‍💻 The target audience includes both beginner and experienced investors and traders, as well as anyone interested in cryptocurrencies.
 
